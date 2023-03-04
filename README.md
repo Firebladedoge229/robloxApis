@@ -1,5 +1,5 @@
 | URL                                                                                                                   | Request Type |
-|-----------------------------------------------------------------------------------------------------------------------|--------------|
+|-----------------------------------------------------------------------------------------------------------------------|:------------:|
 | https://apis.roblox.com/developer-products/v1/developer-products/0                                                    |      GET     |
 | https://apis.roblox.com/developer-products/v1/universes/0/developerproducts?pageNumber=1&pageSize=50                  |      GET     |
 | https://apis.roblox.com/experience-questionnaire/v1/questionnaires/status                                             |      GET     |
