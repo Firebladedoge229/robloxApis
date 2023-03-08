@@ -19,6 +19,12 @@
 | https://apis.roblox.com/virtual-events/v1/virtual-events/0/rsvps/counters                                             |      GET     |
 | https://apis.roblox.com/universal-app-configuration/v1/behaviors/cookie-policy/content                                |      GET     |
 | https://apis.roblox.com/experience-guidelines-api/experience-guidelines/get-age-recommendation                        |      GET     |
+| https://apis.roblox.com/toolbox-service/v1/frontend-flags/values?flags=                                               |      GET     |
+| https://apis.roblox.com/universal-app-configuration/v1/behaviors/account-settings-ui/content                          |      GET     |
+| https://apis.roblox.com/toolbox-service/v1/frontend-flags/values?flags=PublicFrontendHV                               |      GET     |
+| https://apis.roblox.com/product-experimentation-platform/v1/projects/1/layers/AvatarExperience/values                 |      GET     |
+| https://apis.roblox.com/developer-products/v1/developer-products/0                                                    |      GET     |
+| https://apis.roblox.com/game-passes/v1/game-passes/0/product-info                                                     |      GET     |
 | https://apis.roblox.com/experience-guidelines-api/experience-guidelines/get-experience-restrictions                   |     POST     |
 | https://apis.roblox.com/experience-guidelines-api/experience-guidelines/get-descriptors-by-name                       |     POST     |
 | https://apis.roblox.com/product-experimentation-platform/v1/projects/1/values                                         |     POST     |
