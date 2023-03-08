@@ -25,6 +25,7 @@
 | https://apis.roblox.com/product-experimentation-platform/v1/projects/1/layers/AvatarExperience/values                 |      GET     |
 | https://apis.roblox.com/developer-products/v1/developer-products/0                                                    |      GET     |
 | https://apis.roblox.com/game-passes/v1/game-passes/0/product-info                                                     |      GET     |
+| https://apis.roblox.com/toolbox-service/v1/Models                                                                     |      GET     |
 | https://apis.roblox.com/experience-guidelines-api/experience-guidelines/get-experience-restrictions                   |     POST     |
 | https://apis.roblox.com/experience-guidelines-api/experience-guidelines/get-descriptors-by-name                       |     POST     |
 | https://apis.roblox.com/product-experimentation-platform/v1/projects/1/values                                         |     POST     |
